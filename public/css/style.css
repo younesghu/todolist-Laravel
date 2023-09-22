@@ -8,7 +8,7 @@
 .form-box {
     margin: 5px;
     margin-top: 10px;
-    max-width: 300px;
+    max-width: 330px;
     background: #f1f7fe;
     overflow: hidden;
     border-radius: 16px;
@@ -86,6 +86,7 @@
 
   /* Logged in DIV */
 .loggedin{
+
     padding-top: 1%;
     padding-bottom: 1%;
     justify-content: flex-start;
