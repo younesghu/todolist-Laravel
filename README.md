@@ -15,7 +15,7 @@ This project is a bit different than other ones because, every user is saved ins
 ![3](https://github.com/younesghu/todolist/assets/142607475/a57274d0-2c6d-4c33-8a60-0f8ea72bb381)
 
 <p>
-    Once logged in, you can add/remove as many tasks as you want. 
+    Once log in, you can add/remove as many tasks as you want. 
 </p>
 
 ![8](https://github.com/younesghu/todolist/assets/142607475/02b3c539-aca6-478f-9965-d2f65f1a10c6)
