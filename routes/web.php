@@ -31,5 +31,4 @@ Route::get('/login', [UserController::class, 'login']);
 
 // Tasks related routes
 Route::post('/create-task', [TaskController::class, 'createTask']);
-Route::post('/create-task', [TaskController::class, 'createTask']);
 Route::delete('/delete-task/{task}', [TaskController::class, 'deleteTask']);
